@@ -55,4 +55,4 @@ Both applications are designed with modular, scalable codebases and utilize mode
 1. Clone the repository:
    ```bash
    git clone https://github.com/Noddy09032001/React-Projects.git
-   cd job-portal
+   
